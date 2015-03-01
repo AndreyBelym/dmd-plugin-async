@@ -1,0 +1,19 @@
+{
+  "name": "dmd-plugin-async",
+  "author": "Andrey Belym <belym.a.2105@gmail.com>",
+  "version": "0.1.1",
+  "description": "Plugin for dmd to support custom 'async' tag",
+  "repository": "https://github.com/AndreyBelym/dmd-plugin-async.git",
+  "main": "./lib/dmd-plugin-async.js",
+  "keywords": [],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {},
+  "files": [
+    "helper",
+    "lib",
+    "partial",
+    "README.md"
+  ]
+}
